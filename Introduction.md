@@ -141,5 +141,5 @@ There are many more edge locations than regions. Currently there are over 66 edg
 
 #### Artificial Intelligence
 
-(https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)[SuperIntelligence by Nick Bostrom]
+[SuperIntelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
 
