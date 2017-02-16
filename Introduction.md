@@ -143,3 +143,16 @@ There are many more edge locations than regions. Currently there are over 66 edg
 
 [SuperIntelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
 
+* Alexa -> Lex
+* Polly - Text to speech with over 47 different voices and 24 different spoken languages
+* Machine Learning - Upload a data frame and it will automatically get outcomes from it
+* Rekognition - Image recognition tool
+
+#### Messaging
+
+* SNS - Simple Notification Service
+* SQS - Simple Queue Service
+* SES - Simple Email Service
+
+
+
